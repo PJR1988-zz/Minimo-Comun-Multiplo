@@ -1,6 +1,6 @@
 mkdir ~/.mcm
 sudo mkdir /opt/mcm
-cp UNINSTALL.sh ~/.mcm /UNINSTALL_mcm.sh
+cp UNINSTALL.sh ~/.mcm/UNINSTALL_mcm.sh
 sudo cp mcm.png /usr/share/pixmaps/
 sudo cp * /opt/mcm/
 
